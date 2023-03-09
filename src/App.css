@@ -1,3 +1,19 @@
 .App {
   text-align: center;
 }
+
+a {
+  font-size: 20px;
+}
+
+.project-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto 50px auto;
+  border-radius: 50px;
+}
+
+  img {
+    border-radius: 50px;
+  }
